@@ -1,1 +1,1 @@
-# Case-1-Spare-parts-business-Operations-Management-MySQL
+The intention of this test case scenario is to make MBA candidates (who are from non-IT background) can learn by solving the management test case scenarios that I uploaded over here. I hope you will enjoy solving it and any improvements are welcome.
